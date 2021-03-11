@@ -10,3 +10,9 @@
 section {
   padding-top: 5rem;
 }
+
+section h1 {
+  font-family: 'Lucida Sans';
+  font-style: oblique;
+  font-size: 5rem;
+}
